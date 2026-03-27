@@ -1,6 +1,8 @@
-# O2 Display
+# ppO2 & CO2 Diving Habiat Display
 
-ESP32-S2 firmware for an Adafruit Feather ESP32-S2 Reverse TFT that reads environmental and oxygen-sensor data, shows key values on the built-in TFT, and serves a live web dashboard over Wi-Fi.
+ESP32-S2 firmware for an Adafruit Feather ESP32-S2 Reverse TFT that reads environmental and oxygen-sensor data, shows key values on the built-in TFT, and serves a live web dashboard over Wi-Fi. The project is primarily designed as a proof of concept for use in the decompression habitats used for deep cave diving in New Zealand.
+
+Aim is to have a small display embeded in the CO2 scrubber which displays the ppO2 and CO2 locally as well as serving a web page which can show the history of gas composition in the habitat.
 
 The actual PlatformIO project is in [`O2_display/`](./O2_display/).
 
