@@ -6,7 +6,7 @@ Aim is to have a small display embeded in the CO2 scrubber which displays the pp
 
 The actual PlatformIO project is in [`O2_display/`](./O2_display/) and is built within PlatfromIO rather than Arduino IDE, but does use arduino framework & libraries to make life easier.
 
-![screenshot](images\Screenshot 2026-03-27 145807.jpg)
+![screenshot](images/Screenshot%202026-03-27%20145807.jpg)
 
 ## Overview
 
